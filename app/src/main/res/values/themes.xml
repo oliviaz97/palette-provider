@@ -1,0 +1,33 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PaletteProvider" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/theme</item>
+        <item name="colorPrimaryVariant">@color/theme</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Customize your theme here. -->
+
+    </style>
+    <style name="Button" parent="Base.TextAppearance.AppCompat.Button" >
+        <item name="backgroundTint">#df8863</item>
+    </style>
+    <style name="sc01" parent="Base.TextAppearance.AppCompat.Button" >
+        <item name="backgroundTint">#833499</item>
+    </style>
+    <style name="sc02" parent="Base.TextAppearance.AppCompat.Button" >
+        <item name="backgroundTint">#123099</item>
+    </style>
+    <style name="pop00" parent="Base.TextAppearance.AppCompat.Button" >
+        <item name="backgroundTint">#a2d7dd</item>
+    </style>
+    <style name="pop01" parent="Base.TextAppearance.AppCompat.Button" >
+        <item name="backgroundTint"> #f1ffed</item>
+    </style>
+    <style name="pop02" parent="Base.TextAppearance.AppCompat.Button" >
+        <item name="backgroundTint"> #ffa7a3</item>
+    </style>
+</resources>

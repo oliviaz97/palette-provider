@@ -1,0 +1,262 @@
+[
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_back_arrow.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\back_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_001.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_001.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_dots_1.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\status_dots_1.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_005.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_005.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\font_lato_medium.ttf.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\font\\lato_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_008.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_008.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_crop.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_crop.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_004.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_004.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_error_lighting.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_error_lighting.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_error.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_p_p_logo.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable-v24\\p_p_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_results.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_results.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_007.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_007.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_icons_3.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\status_icons_3.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_extract_color_photo.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_extract_color_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_square.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\color_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_status_dots_2.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\status_dots_2.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_background.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\home_background.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_brightness.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_brightness.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_saved_colors_tag.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\saved_colors_tag.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_opaque_lillies.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\opaque_lillies.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_buttons.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\rounded_buttons.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\font_lobster2.ttf.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\font\\lobster2.ttf"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_006.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_006.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_003.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_003.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_extract_color.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_extract_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_monet_background.jpeg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\monet_background.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_photo.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_edit_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_002.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_002.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home_icon.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\home_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\font_sunshine.ttf.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\font\\sunshine.ttf"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_part_009.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\image_part_009.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_color_block_border.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\color_block_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_second_roundedbutton.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\second_roundedbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_opaque_lillies.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable-v24\\opaque_lillies.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_alma465.jpg.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\alma465.jpg"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_opaque_lillies.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable-xxhdpi\\opaque_lillies.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_splash_background.png.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable-v24\\splash_background.png"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_saved_colors.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\layout\\activity_saved_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\build\\intermediates\\res\\merged\\debug\\drawable_theme_button.xml.flat",
+        "source": "C:\\Users\\awhit\\cs465\\palette-provider\\app\\src\\main\\res\\drawable\\theme_button.xml"
+    }
+]

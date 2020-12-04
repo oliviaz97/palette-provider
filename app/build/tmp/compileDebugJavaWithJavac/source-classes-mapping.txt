@@ -1,0 +1,70 @@
+com/pstcstest/paletteprovider/ExtractColorPhotoActivity.java
+ com.pstcstest.paletteprovider.ExtractColorPhotoActivity
+ com.pstcstest.paletteprovider.ExtractColorPhotoActivity$1
+ com.pstcstest.paletteprovider.ExtractColorPhotoActivity$2
+ com.pstcstest.paletteprovider.ExtractColorPhotoActivity$3
+ com.pstcstest.paletteprovider.ExtractColorPhotoActivity$4
+com/pstcstest/paletteprovider/BuildConfig.java
+ com.pstcstest.paletteprovider.BuildConfig
+com/pstcstest/paletteprovider/ZoomActivity.java
+ com.pstcstest.paletteprovider.ZoomActivity
+ com.pstcstest.paletteprovider.ZoomActivity$1
+ com.pstcstest.paletteprovider.ZoomActivity$10
+ com.pstcstest.paletteprovider.ZoomActivity$11
+ com.pstcstest.paletteprovider.ZoomActivity$2
+ com.pstcstest.paletteprovider.ZoomActivity$3
+ com.pstcstest.paletteprovider.ZoomActivity$4
+ com.pstcstest.paletteprovider.ZoomActivity$5
+ com.pstcstest.paletteprovider.ZoomActivity$6
+ com.pstcstest.paletteprovider.ZoomActivity$7
+ com.pstcstest.paletteprovider.ZoomActivity$8
+ com.pstcstest.paletteprovider.ZoomActivity$9
+com/pstcstest/paletteprovider/ExtractColorActivity.java
+ com.pstcstest.paletteprovider.ExtractColorActivity
+ com.pstcstest.paletteprovider.ExtractColorActivity$1
+ com.pstcstest.paletteprovider.ExtractColorActivity$2
+ com.pstcstest.paletteprovider.ExtractColorActivity$3
+com/pstcstest/paletteprovider/PaletteColor.java
+ com.pstcstest.paletteprovider.PaletteColor
+ com.pstcstest.paletteprovider.PaletteColor$1
+com/pstcstest/paletteprovider/SavedColorsActivity.java
+ com.pstcstest.paletteprovider.SavedColorsActivity
+ com.pstcstest.paletteprovider.SavedColorsActivity$1
+ com.pstcstest.paletteprovider.SavedColorsActivity$2
+ com.pstcstest.paletteprovider.SavedColorsActivity$3
+ com.pstcstest.paletteprovider.SavedColorsActivity$4
+ com.pstcstest.paletteprovider.SavedColorsActivity$5
+ com.pstcstest.paletteprovider.SavedColorsActivity$6
+com/pstcstest/paletteprovider/ResultsActivity.java
+ com.pstcstest.paletteprovider.ResultsActivity
+ com.pstcstest.paletteprovider.ResultsActivity$1
+ com.pstcstest.paletteprovider.ResultsActivity$2
+ com.pstcstest.paletteprovider.ResultsActivity$3
+com/pstcstest/paletteprovider/EditPhotoActivity.java
+ com.pstcstest.paletteprovider.EditPhotoActivity
+ com.pstcstest.paletteprovider.EditPhotoActivity$1
+ com.pstcstest.paletteprovider.EditPhotoActivity$2
+ com.pstcstest.paletteprovider.EditPhotoActivity$3
+ com.pstcstest.paletteprovider.EditPhotoActivity$4
+ com.pstcstest.paletteprovider.EditPhotoActivity$5
+com/pstcstest/paletteprovider/ErrorActivity.java
+ com.pstcstest.paletteprovider.ErrorActivity
+com/pstcstest/paletteprovider/BrightnessActivity.java
+ com.pstcstest.paletteprovider.BrightnessActivity
+ com.pstcstest.paletteprovider.BrightnessActivity$1
+ com.pstcstest.paletteprovider.BrightnessActivity$2
+ com.pstcstest.paletteprovider.BrightnessActivity$3
+ com.pstcstest.paletteprovider.BrightnessActivity$4
+com/pstcstest/paletteprovider/MainActivity.java
+ com.pstcstest.paletteprovider.MainActivity
+ com.pstcstest.paletteprovider.MainActivity$1
+com/pstcstest/paletteprovider/CameraActivity.java
+ com.pstcstest.paletteprovider.CameraActivity
+com/pstcstest/paletteprovider/HomeActivity.java
+ com.pstcstest.paletteprovider.HomeActivity
+ com.pstcstest.paletteprovider.HomeActivity$1
+ com.pstcstest.paletteprovider.HomeActivity$2
+ com.pstcstest.paletteprovider.HomeActivity$3
+com/pstcstest/paletteprovider/PictureThread.java
+ com.pstcstest.paletteprovider.PictureThread
+ com.pstcstest.paletteprovider.PictureThread$1

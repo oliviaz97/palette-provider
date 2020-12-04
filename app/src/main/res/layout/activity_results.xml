@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mainResultsLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/opaque_lillies"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    tools:context=".ResultsActivity">
+    <ImageView
+        android:id="@+id/extractColor_status"
+        android:layout_width="wrap_content"
+
+        android:layout_height="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/status_icons_3"
+        />
+    <LinearLayout
+        android:id="@+id/colorBreakdownLayout"
+        android:layout_marginTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/saveThisRelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/saveThisColorButton"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="30dp"
+            android:paddingLeft="30dp"
+            android:paddingRight="30dp"
+            android:layout_height="70dp"
+            android:background="@drawable/rounded_buttons"
+            android:layout_centerHorizontal="true"
+            android:fontFamily="@font/lato_medium"
+            android:text="Save Color"
+            android:textSize="20dp"
+            app:backgroundTint="@color/theme"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+
+
+    <RelativeLayout
+        android:id="@+id/back_navBarResults"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp">
+        <ImageButton
+            android:id="@+id/back_results"
+            android:layout_width="40dp"
+            android:layout_marginLeft="20dp"
+
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentBottom="true"
+            android:layout_height="40dp"
+            android:background="@drawable/back_arrow" />
+        <ImageButton
+            android:id="@+id/home_results"
+            android:layout_width="40dp"
+            android:layout_marginRight="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_height="35dp"
+            android:background="@drawable/home_icon" />
+    </RelativeLayout>
+
+
+</LinearLayout>

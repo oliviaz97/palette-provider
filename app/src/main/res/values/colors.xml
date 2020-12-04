@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="theme">#FF6ba285</color>
+    <color name="theme_dark">#FF2a6e3a</color>
+    <color name="theme_light">#FFaaceca</color>
+    <color name="theme_text">#FF15311e</color>
+    <color name="accent">#FF607D8B</color>
+    <color name = "accent_secondary"> #df8863</color>
+    <color name="background">#FFaaceca</color>
+</resources>

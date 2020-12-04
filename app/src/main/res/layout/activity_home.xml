@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/opaque_lillies"
+    tools:context=".HomeActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_marginRight="40dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="40dp"
+            android:layout_weight="8"
+            android:src="@drawable/p_p_logo" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:layout_marginBottom="60dp"
+            android:orientation="vertical"
+            android:layout_gravity="center_horizontal"
+            >
+<!--            <Button-->
+<!--                android:id="@+id/camera"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_marginTop="40dp"-->
+<!--                android:layout_height="60dp"-->
+<!--                android:background="@drawable/rounded_buttons"-->
+<!--                android:layout_marginBottom="20dp"-->
+<!--                android:text="Take Picture"-->
+<!--                android:textSize="16dp"-->
+<!--                android:textColor="@color/white"-->
+<!--                android:backgroundTint="#f7aaceca"/>-->
+            <Button
+                android:id="@+id/cameraRoll"
+                android:layout_height="60dp"
+                android:layout_marginTop="60dp"
+                android:layout_marginBottom="30dp"
+                android:layout_width="match_parent"
+                android:text="choose from Camera Roll"
+                android:fontFamily="@font/lato_medium"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:background="@drawable/rounded_buttons"
+                android:backgroundTint="#f76ba285" />
+            <Button
+                android:id="@+id/colorWheel"
+                android:layout_width="match_parent"
+                android:layout_marginBottom="30dp"
+                android:layout_height="60dp"
+                android:textColor="@color/white"
+                android:textSize="16dp"
+                android:fontFamily="@font/lato_medium"
+                android:background="@drawable/rounded_buttons"
+                android:backgroundTint="@color/theme_dark"
+                android:text="Choose from Color Wheel" />
+            <Button
+                android:id="@+id/savedColors"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:textSize="16dp"
+                android:fontFamily="@font/lato_medium"
+                android:textColor="@color/white"
+                android:background="@drawable/rounded_buttons"
+                android:text="Saved Colors" />
+
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
