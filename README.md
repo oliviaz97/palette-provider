@@ -33,3 +33,15 @@ A mobile application that provides paint mixing suggestions to users.
 
 **6. Errors**
 * Possible errors include the rare case when the program is unable to extract the color and the user is prompted to try again; or when the lighting of the photo is not good enough for extraction, in this case the user is prompted to try agian as well
+
+### Screenshots
+![Home Screen](screenshots/home_screen.png)
+![Edit Photo Screen](screenshots/edit_photo.png)
+![Extract Color from Photo Screen](screenshots/extract_color_from_photo.png)
+![Zoom-in Screen Screen](screenshots/zoom.png)
+![Zoomed-in Screen](screenshots/zoomed_in.png)
+![Adjust Brightness Screen](screenshots/brightness.png)
+![Color Wheel Screen](screenshots/color_wheel.png)
+![Result Screen](screenshots/result.png)
+![Saved Colors Screen](screenshots/saved_colors.png)
+
